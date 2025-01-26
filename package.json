@@ -1,0 +1,39 @@
+{
+  "name": "even-odd-ai",
+  "version": "1.0.4",
+  "description": "Check if a number is even or odd using AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ai",
+    "odd",
+    "even",
+    "numbers",
+    "openai"
+  ],
+  "author": "Musa Aqeel",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "dotenv": "^16.4.5",
+    "even-odd-ai": "^1.0.2",
+    "sync-request": "^6.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MusaAqeel/even-odd-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MusaAqeel/even-odd-ai/issues"
+  },
+  "homepage": "https://github.com/MusaAqeel/even-odd-ai#readme",
+  "type": "module"
+}
